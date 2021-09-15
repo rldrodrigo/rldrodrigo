@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Busco ser um desenvolvedor Web
-- 🌱 Estou estudando Angular e TypeScript
+- 🌱 Estou estudando HTML, JS e CSS
 
 <div>
   <a href="https://github.com/rldrodrigo">
