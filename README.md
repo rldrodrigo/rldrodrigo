@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 - 🔭 Programador em desenvolvimento 
 - 🌱 Estou estudando HTML, JS e CSS
 
-<iframe src="//funhtml5games.com/mineblock/index.html" id="game_frame" style="top:120px;margin-left:-427px;width:854px;height:480px;" frameborder="0" scrolling="no"></iframe>
-
 <div>
   <a href="https://github.com/rldrodrigo">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=rldrodrigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
