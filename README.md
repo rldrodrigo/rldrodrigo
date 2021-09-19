@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 Programador em desenvolvimento 
 - 🌱 Estou estudando HTML, JS e CSS
+- - 📫 Contato: rodrigo.lima1945@gmail.com
 
 <div>
   <a href="https://github.com/rldrodrigo">
