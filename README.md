@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 Programador em desenvolvimento 
 - 🌱 Estou estudando PHP 
-- 📫 Contato: rodrigo.lima1945@gmail.com
+- 📫 Contato: rldrodrigo.contato@gmail.com
 
 <div>
   <a href="https://github.com/rldrodrigo">
