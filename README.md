@@ -1,7 +1,7 @@
-###  Olá eu sou o Rodrigo! 
+<!--###  Olá eu sou o Rodrigo! 
 ### Welcome to the Jungle Baby!
 
-<!--
+
 **rldrodrigo/rldrodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
