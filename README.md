@@ -24,13 +24,14 @@ Here are some ideas to get you started:
 - 🔭 Programador em desenvolvimento 
 - 🌱 Estou estudando NodeJS, Angular e TypeScript 
 - 📫 Contato: rldrodrigo.contato@gmail.com
-
+##
 <div>
   <a href="https://github.com/rldrodrigo">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=rldrodrigo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rldrodrigo&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+ ## 
   <div style="display: inline_block"><br>
    <img align="center" alt="Digu-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Digu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -55,5 +56,7 @@ Here are some ideas to get you started:
 </div>
 
   ## 
+ 
+ 
  
  
