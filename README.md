@@ -44,6 +44,7 @@ Here are some ideas to get you started:
    <!--<img align="right" alt="Digu-Lunch" height="150" src="https://user-images.githubusercontent.com/51513403/147255069-bb1539ca-b9a3-45e8-b308-f9908f51e802.gif">-->
  </div>
  <div style="display: inline_block"><br>
+  <img align="center" alt="Digu-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/react-original.svg">
   <img align="center" alt="Digu-AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Digu-ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
   <img align="center" alt="Digu-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
