@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Digu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 -->
 - 🔭 Programador em desenvolvimento 
-- 🌱 Estou estudando React
+- 🌱 Estou estudando React e NodeJS
 - 📫 Contato: rldrodrigo.contato@gmail.com
 ##
 <div>
