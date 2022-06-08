@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  <img align="center" alt="Digu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Digu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 -->
-- 🔭 Desenvolvedor Web
+- 🔭 Desenvolvedor Front End Angular | IONIC
 - 🌱 Estou estudando React e NodeJS
 - 📫 Contato: rldrodrigo.contato@gmail.com
 ##
