@@ -1,4 +1,4 @@
-- 👨🏼‍💻 Desenvolvedor Front End Angular | IONIC
+- 👨🏼‍💻 Desenvolvedor Front End Angular | ReactJS
 - 🌱 Estou estudando NodeJS
 - 📫 Contato: rldrodrigo.contato@gmail.com
 ##
