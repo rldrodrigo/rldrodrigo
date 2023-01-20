@@ -1,3 +1,4 @@
+## Seja muito bem vindo!
 - 👨🏼‍💻 Desenvolvedor Front End Angular | ReactJS
 - 🌱 Estou estudando NodeJS
 - 📫 Contato: rldrodrigo.contato@gmail.com
@@ -5,8 +6,8 @@
 <div>
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rldrodrigo&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-##
 
+## Ferramentas e Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
