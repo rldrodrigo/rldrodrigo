@@ -5,10 +5,6 @@
 <div>
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rldrodrigo&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
 ##
 
 <div style="display: inline_block"><br>
