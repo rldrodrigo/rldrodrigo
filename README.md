@@ -1,6 +1,6 @@
 ## Seja muito bem vindo!
-- 👨🏼‍💻 Desenvolvedor Front End Angular | ReactJS
-- 🌱 Estou estudando NodeJS
+- 👨🏼‍💻 Full Stack Developer | Angular | Spring Boot | IONIC
+- 🌱 Estou estudando Spring Boot
 - 📫 Contato: rldrodrigo.contato@gmail.com
 ##
 <div>
